@@ -10,7 +10,7 @@ TheraBot is a supportive AI-powered mental health chatbot designed to offer comf
 - 💬 Chat interface built for comfort and simplicity
 - 📝 Journaling & reflective conversation
 - 🚀 Deployed backend using FastAPI and Groq's powerful LLM
-- 🌍 Frontend hosted on GitHub Pages
+- 🌍 Frontend hosted on Netlify
 
 ---
 
@@ -20,7 +20,7 @@ TheraBot is a supportive AI-powered mental health chatbot designed to offer comf
 |------------|------|
 | Frontend   | React + TypeScript + TailwindCSS + Vite |
 | Backend    | Python + FastAPI + Groq API |
-| Hosting    | Render (backend), GitHub Pages (frontend) |
+| Hosting    | Render (backend), Netlify (frontend) |
 
 ---
 
@@ -55,7 +55,7 @@ npm run dev
 
 ## 🔗 Live URLs
 
-* 🌐 **Frontend (GitHub Pages):** [https://adeteslim.github.io/therabot-ui/]
+* 🌐 **Frontend (Netlify):** [https://mytherabot.netlify.app/]
 
 ---
 
